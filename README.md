@@ -2,15 +2,6 @@
 
 AURAChain is a production-grade platform designed to democratize advanced business intelligence for MSMEs. It leverages a sophisticated multi-agent architecture to autonomously ingest data, analyze trends, forecast demand, and optimize supply chain decisions through a unified chat interface.
 
----
-
-## 🔗 Live Demo (Vercel)
-
-Experience the live platform here:  
-👉 **https://aurachain.up.railway.app/**
-
----
-
 ## 📂 Demo Dataset
 
 To quickly test the platform, use the sample dataset:
@@ -209,7 +200,3 @@ npm run dev
 ```
 
 ---
-
-## License
-
-MIT License. See `LICENSE` for details.
