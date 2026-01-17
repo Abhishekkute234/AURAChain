@@ -1,4 +1,4 @@
-// aurachain-ui/src/components/About/AboutPage.tsx
+ // aurachain-ui/src/components/About/AboutPage.tsx
 import { useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
 import Lenis from "@studio-freight/lenis";
